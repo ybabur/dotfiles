@@ -7,3 +7,10 @@ Files in this repo are mainly edited for usage.
 
 Neovim is using nvimchad configs which could be installed by just a single command from here (https://github.com/NvChad/NvChad)
 Vim is using powerline.
+
+Fonts
+
+    JetBrainsMono Nerd Font
+    Iosevka Nerd Font
+    FiraCode (for lxappearance font theme)
+    Material Icon and Feathers (for polybar)
